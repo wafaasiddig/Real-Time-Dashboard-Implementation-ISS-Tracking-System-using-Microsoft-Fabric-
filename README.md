@@ -53,12 +53,7 @@ With data flowing through **Eventstream** into the **KQL Database**, I construct
 
 The integration with **Power BI** (through DirectLake) and Fabric's **Real-Time Dashboards** provided both deep analytical depth and live monitoring interfaces from a single platform.
 
-### Phase 4: Advanced Features & Automation
-To enhance interactivity, I implemented **parameter-driven filtering** and **dynamic time range controls**, allowing users to adjust the temporal granularity of the data views.
-
-Using **Reflex**, I configured live response triggers for immediate event feedback. Furthermore, **Data Activator** was integrated to automate alerting based on configurable thresholds, such as significant velocity changes or altitude variations, enabling proactive monitoring without manual intervention.
-
-### Phase 5: Quality Assurance & Performance Tuning
+### Phase 4: Quality Assurance & Performance Tuning
 Comprehensive validation was performed to ensure system accuracy and performance:
 - Verified **continuous data ingestion** and event synchronization between the API, Eventstream, and KQL Database.
 - Validated **real-time dashboard responsiveness** and data latency of under 10 seconds.
