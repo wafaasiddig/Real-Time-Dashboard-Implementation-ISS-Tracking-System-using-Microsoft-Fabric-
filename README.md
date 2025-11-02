@@ -24,6 +24,7 @@ A **KQL Database** was deployed as the central repository for structured ISS dat
 
 ### Phase 2: Data Engineering & Real-Time Ingestion
 The core of this project was building a robust pipeline for live ISS data. Unlike static datasets, this required continuously fetching data from the **ISS positional API** and streaming it into Fabric.
+<img width="1012" height="464" alt="image" src="https://github.com/user-attachments/assets/045c7463-af91-455b-aa75-669edfa7e2df" />
 
 To achieve this, I developed a **Fabric Notebook** that acts as the automation engine. Using Python, the notebook executes a script every **two seconds** to:
 - **Fetch live data** from the ISS API using the `requests` library.
