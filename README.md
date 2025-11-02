@@ -10,7 +10,8 @@ This project implements a comprehensive **real-time analytics dashboard** in Mic
 
 ## Process Flow
 The architecture follows an event-driven pipeline for continuous data ingestion and processing:
-<img width="700" height="417" alt="ISS Data Pipeline Architecture" src="https://github.com/user-attachments/assets/68dcc34e-e5ce-483f-b9d4-29e896ca8acf" />
+
+<img width="6000" height="3375" alt="Strategic Project Roadmaps Infographic Presentation (1)" src="https://github.com/user-attachments/assets/efaeab52-4173-4543-a04e-c046554934f5" />
 
 ---
 
