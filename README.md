@@ -76,9 +76,6 @@ Performance tuning included optimizing **KQL queries** for efficiency, refining 
 | **Update Frequency** | Continuous Stream (2-second intervals) | Live ISS position updates via Notebook automation |
 | **Data Latency** | < 10 seconds end-to-end | Near real-time monitoring and decision-making |
 | **Ingestion Method** | Eventstream with Notebook API Client | Real-time data ingestion pipeline |
-| **Processing Engine** | KQL Database & Eventhouse | Real-time analytics and querying |
-| **Availability** | 99%+ SLA | Operational reliability |
-
 ---
 
 ## Conclusion
